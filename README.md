@@ -1,50 +1,17 @@
-# Welcome to your Expo app 👋
+# 💸 App 50-30-20
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Esse projeto é um app simples feito com **React Native** e **Expo**, baseado na regra 50-30-20 de organização financeira. A ideia é ajudar o usuário a entender como distribuir a renda mensal da seguinte forma:
 
-## Get started
+- **50%** para itens essenciais (como aluguel, contas, alimentação)
+- **30%** para lazer (streamings, passeios, hobbies)
+- **20%** para investimentos (poupança, reserva de emergência)
 
-1. Install dependencies
+Também é exibido um valor sugerido de gasto semanal, com base nos 30% destinados ao lazer.
 
-   ```bash
-   npm install
-   ```
+## ✍️ Sobre meu aprendizado
 
-2. Start the app
+Esse projeto foi uma forma prática de aplicar meus conhecimentos em React Native, estados, hooks e estilização. Também entendi melhor como lidar com inputs, cálculos e boas práticas de estruturação no código.
 
-   ```bash
-    npx expo start
-   ```
+Foi um ótimo exercício pra consolidar o que venho aprendendo no front-end!
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+O APK para instalação está no repositório.
