@@ -11,5 +11,5 @@ O app calcula:
 **Front-end:** React Native (com Expo)
 
 ## Relacionados
-Versão antiga do app, utilizando HTML, CSS, JS e CapacitorJS. Segue link abaixo:
+Versão antiga do app, utilizando HTML, CSS, JS e CapacitorJS. Segue link abaixo:  
 [503020](https://github.com/loez97/503020/blob/main/README.md)
